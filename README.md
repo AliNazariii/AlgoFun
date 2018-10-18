@@ -1,3 +1,4 @@
-# Python-Algorithm-Training
+# Python-WarmUp-Algorithm
 
-* First exercises are from algorithm class of Quera.
+* some Exercises to warm me up and make me a bit think :).
+questions are from Quera.
